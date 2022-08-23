@@ -1,0 +1,12 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+requirements.txt
+setup.py
+UKpostcode/__init__.py
+UKpostcodes1.egg-info/PKG-INFO
+UKpostcodes1.egg-info/SOURCES.txt
+UKpostcodes1.egg-info/dependency_links.txt
+UKpostcodes1.egg-info/requires.txt
+UKpostcodes1.egg-info/top_level.txt
